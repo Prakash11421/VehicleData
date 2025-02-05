@@ -1,0 +1,4 @@
+[
+  {"event_type": "Forward Collision", "message": "Warning: object detected ahead!"},
+  {""event_type": "Harsh Braking", "message": "Warning: sudden braking detected!"}
+]
