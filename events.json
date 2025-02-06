@@ -1,4 +1,7 @@
-[
-  {"event_type": "Forward Collision", "message": "Warning: object detected ahead!"},
-  {"event_type": "Harsh Braking", "message": "Warning: sudden braking detected!"}
-]
+{
+    "messages": [
+        "Software update available",
+        "System reboot required",
+        "Download completed"
+    ]
+}
