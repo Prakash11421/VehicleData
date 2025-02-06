@@ -2,6 +2,7 @@
     "messages": [
         "Software update available",
         "System reboot required",
-        "Download completed"
+        "Download completed",
+        "new update available"
     ]
 }
